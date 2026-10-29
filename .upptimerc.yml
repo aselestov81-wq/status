@@ -21,8 +21,6 @@ sites:
   - name: svoya-orbita
     url: https://svoya-orbita.vercel.app/
     maxResponseTime: 3000
-  - name: test-down
-    url: https://maksim-shelestov.vercel.app/test-down-404
 
 # Когда сайт падает, открывается issue на этого пользователя — GitHub шлёт письмо на почту.
 assignees:
